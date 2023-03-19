@@ -1,0 +1,149 @@
+2023-03-19 13:31:48 [debug    /   84560]   - clearing rtc alarm flags
+2023-03-19 13:31:48 [info     /   82528]   - setting timer to wake in 10 minutes
+2023-03-19 13:31:48 [info     /  127824]   - shutting down
+2023-03-19 13:41:02 [info     /  107008] 
+2023-03-19 13:41:02 [info     /  105392] hey enviro, let's go!
+2023-03-19 13:41:02 [info     /  103696]  - --=-=-===-=-=-- - 
+2023-03-19 13:41:02 [info     /  102096] 
+2023-03-19 13:41:02 [debug    /  100480] > performing startup
+2023-03-19 13:41:02 [debug    /   98784]   - hold vsys_en high
+2023-03-19 13:41:02 [info     /   96944]   - wake reason: external_trigger
+2023-03-19 13:41:02 [debug    /   95200]   - turn on activity led
+2023-03-19 13:41:03 [debug    /  126112] > 86 blocks free out of 212
+2023-03-19 13:41:03 [debug    /  123440]   - starting sensor
+2023-03-19 13:41:03 [debug    /  121392]   - wait 5 seconds for airflow
+2023-03-19 13:41:08 [debug    /  101888]   - taking pms5003i reading
+2023-03-19 13:41:22 [info     /  120320] > going to sleep
+2023-03-19 13:41:22 [debug    /  118272]   - clearing rtc alarm flags
+2023-03-19 13:41:22 [info     /  116240]   - setting timer to wake in 10 minutes
+2023-03-19 13:41:23 [info     /  114112]   - shutting down
+2023-03-19 13:51:02 [info     /  108064] 
+2023-03-19 13:51:02 [info     /  106448] hey enviro, let's go!
+2023-03-19 13:51:02 [info     /  104752]  - --=-=-===-=-=-- - 
+2023-03-19 13:51:02 [info     /  103152] 
+2023-03-19 13:51:02 [debug    /  101536] > performing startup
+2023-03-19 13:51:02 [debug    /   99840]   - hold vsys_en high
+2023-03-19 13:51:02 [info     /   98000]   - wake reason: external_trigger
+2023-03-19 13:51:02 [debug    /   96256]   - turn on activity led
+2023-03-19 13:51:03 [debug    /  126112] > 86 blocks free out of 212
+2023-03-19 13:51:03 [debug    /  123440]   - starting sensor
+2023-03-19 13:51:03 [debug    /  121392]   - wait 5 seconds for airflow
+2023-03-19 13:51:08 [debug    /  101888]   - taking pms5003i reading
+2023-03-19 13:54:45 [info     /  119120] 
+2023-03-19 13:54:45 [info     /  117504] hey enviro, let's go!
+2023-03-19 13:54:45 [info     /  115808]  - --=-=-===-=-=-- - 
+2023-03-19 13:54:45 [info     /  114208] 
+2023-03-19 13:54:45 [debug    /  112592] > performing startup
+2023-03-19 13:54:45 [debug    /  110896]   - hold vsys_en high
+2023-03-19 13:54:45 [info     /  109056]   - wake reason: external_trigger
+2023-03-19 13:54:45 [debug    /  107312]   - turn on activity led
+2023-03-19 13:54:45 [debug    /  102784] > 85 blocks free out of 212
+2023-03-19 13:54:46 [debug    /  100288]   - starting sensor
+2023-03-19 13:54:46 [debug    /   98240]   - wait 5 seconds for airflow
+2023-03-19 13:54:51 [debug    /  111728]   - taking pms5003i reading
+2023-03-19 13:55:05 [info     /   81264] > going to sleep
+2023-03-19 13:55:05 [debug    /  127856]   - clearing rtc alarm flags
+2023-03-19 13:55:05 [info     /  125824]   - setting timer to wake in 10 minutes
+2023-03-19 13:55:05 [info     /  123872]   - shutting down
+2023-03-19 13:58:59 [info     /  106560] 
+2023-03-19 13:58:59 [info     /  104944] hey enviro, let's go!
+2023-03-19 13:58:59 [info     /  103248]  - --=-=-===-=-=-- - 
+2023-03-19 13:58:59 [info     /  101648] 
+2023-03-19 13:58:59 [debug    /  100032] > performing startup
+2023-03-19 13:58:59 [debug    /   98336]   - hold vsys_en high
+2023-03-19 13:58:59 [info     /   96496]   - wake reason: external_trigger
+2023-03-19 13:58:59 [debug    /   94752]   - turn on activity led
+2023-03-19 13:58:59 [debug    /  126112] > 85 blocks free out of 212
+2023-03-19 13:59:00 [debug    /  123440]   - starting sensor
+2023-03-19 13:59:00 [debug    /  121568]   - wait 5 seconds for airflow
+2023-03-19 13:59:05 [debug    /  101712]   - taking pms5003i reading
+2023-03-19 13:59:15 [info     /   86272] > going to sleep
+2023-03-19 13:59:15 [debug    /   84400]   - clearing rtc alarm flags
+2023-03-19 13:59:15 [info     /   82192]   - setting timer to wake in 10 minutes
+2023-03-19 13:59:15 [info     /  126032]   - shutting down
+2023-03-19 14:00:45 [info     /  105984] 
+2023-03-19 14:00:45 [info     /  104368] hey enviro, let's go!
+2023-03-19 14:00:45 [info     /  102672]  - --=-=-===-=-=-- - 
+2023-03-19 14:00:45 [info     /  101072] 
+2023-03-19 14:00:45 [debug    /   99456] > performing startup
+2023-03-19 14:00:45 [debug    /   97760]   - hold vsys_en high
+2023-03-19 14:00:45 [info     /   95920]   - wake reason: external_trigger
+2023-03-19 14:00:45 [debug    /   94176]   - turn on activity led
+2023-03-19 14:00:46 [debug    /  126144] > 85 blocks free out of 212
+2023-03-19 14:00:46 [debug    /  123472]   - starting sensor
+2023-03-19 14:00:46 [debug    /  121600]   - wait 5 seconds for airflow
+2023-03-19 14:00:51 [debug    /  102096]   - taking pms5003i reading
+2023-03-19 14:01:10 [info     /  102448] > going to sleep
+2023-03-19 14:01:10 [debug    /  100576]   - clearing rtc alarm flags
+2023-03-19 14:01:10 [info     /   98544]   - setting timer to wake in 10 minutes
+2023-03-19 14:01:10 [info     /   96592]   - shutting down
+2023-03-19 14:11:02 [info     /  107008] 
+2023-03-19 14:11:02 [info     /  105392] hey enviro, let's go!
+2023-03-19 14:11:02 [info     /  103696]  - --=-=-===-=-=-- - 
+2023-03-19 14:11:02 [info     /  102096] 
+2023-03-19 14:11:02 [debug    /  100480] > performing startup
+2023-03-19 14:11:02 [debug    /   98784]   - hold vsys_en high
+2023-03-19 14:11:02 [info     /   96944]   - wake reason: external_trigger
+2023-03-19 14:11:02 [debug    /   95200]   - turn on activity led
+2023-03-19 14:11:03 [debug    /  126112] > 86 blocks free out of 212
+2023-03-19 14:11:03 [debug    /  123440]   - starting sensor
+2023-03-19 14:11:03 [debug    /  121568]   - wait 5 seconds for airflow
+2023-03-19 14:11:08 [debug    /  101888]   - taking pms5003i reading
+2023-03-19 14:11:18 [info     /   86288] > going to sleep
+2023-03-19 14:11:18 [debug    /   84416]   - clearing rtc alarm flags
+2023-03-19 14:11:18 [info     /   82208]   - setting timer to wake in 10 minutes
+2023-03-19 14:11:18 [info     /  125856]   - shutting down
+2023-03-19 14:21:02 [info     /  108064] 
+2023-03-19 14:21:02 [info     /  106448] hey enviro, let's go!
+2023-03-19 14:21:02 [info     /  104752]  - --=-=-===-=-=-- - 
+2023-03-19 14:21:02 [info     /  103152] 
+2023-03-19 14:21:02 [debug    /  101536] > performing startup
+2023-03-19 14:21:02 [debug    /   99840]   - hold vsys_en high
+2023-03-19 14:21:02 [info     /   98000]   - wake reason: external_trigger
+2023-03-19 14:21:02 [debug    /   96256]   - turn on activity led
+2023-03-19 14:21:02 [debug    /  126112] > 86 blocks free out of 212
+2023-03-19 14:21:03 [debug    /  123440]   - starting sensor
+2023-03-19 14:21:03 [debug    /  121392]   - wait 5 seconds for airflow
+2023-03-19 14:21:08 [debug    /  101712]   - taking pms5003i reading
+2023-03-19 14:21:22 [info     /  119680] > going to sleep
+2023-03-19 14:21:23 [debug    /  117808]   - clearing rtc alarm flags
+2023-03-19 14:21:23 [info     /  115776]   - setting timer to wake in 10 minutes
+2023-03-19 14:21:23 [info     /  113472]   - shutting down
+2023-03-19 14:24:18 [info     /  108064] 
+2023-03-19 14:24:18 [info     /  106448] hey enviro, let's go!
+2023-03-19 14:24:18 [info     /  104752]  - --=-=-===-=-=-- - 
+2023-03-19 14:24:18 [info     /  103152] 
+2023-03-19 14:24:18 [debug    /  101536] > performing startup
+2023-03-19 14:24:18 [debug    /   99840]   - hold vsys_en high
+2023-03-19 14:24:18 [info     /   98000]   - wake reason: external_trigger
+2023-03-19 14:24:18 [debug    /   96256]   - turn on activity led
+2023-03-19 14:24:19 [debug    /  126112] > 86 blocks free out of 212
+2023-03-19 14:24:19 [debug    /  123440]   - starting sensor
+2023-03-19 14:24:19 [debug    /  121568]   - wait 5 seconds for airflow
+2023-03-19 14:26:20 [info     /  119216] 
+2023-03-19 14:26:20 [info     /  117600] hey enviro, let's go!
+2023-03-19 14:26:20 [info     /  115904]  - --=-=-===-=-=-- - 
+2023-03-19 14:26:20 [info     /  114304] 
+2023-03-19 14:26:20 [debug    /  112688] > performing startup
+2023-03-19 14:26:20 [debug    /  110992]   - hold vsys_en high
+2023-03-19 14:26:20 [info     /  109152]   - wake reason: external_trigger
+2023-03-19 14:26:20 [debug    /  107408]   - turn on activity led
+2023-03-19 14:26:20 [debug    /  102752] > 86 blocks free out of 212
+2023-03-19 14:26:21 [debug    /  100256]   - starting sensor
+2023-03-19 14:26:21 [debug    /   98384]   - wait 5 seconds for airflow
+2023-03-19 14:26:26 [debug    /  114032]   - taking pms5003i reading
+2023-03-19 14:26:34 [info     /  102976] > going to sleep
+2023-03-19 14:26:34 [debug    /  101104]   - clearing rtc alarm flags
+2023-03-19 14:26:34 [info     /   99072]   - setting timer to wake in 10 minutes
+2023-03-19 14:26:34 [info     /   97120]   - shutting down
+2023-03-19 14:26:34 [debug    /   95120]   - on usb power (so can't shutdown) halt and reset instead
+2000-01-01 00:00:04 [info     /  106864] 
+2000-01-01 00:00:04 [info     /  105248] hey enviro, let's go!
+2000-01-01 00:00:04 [info     /  103552]  - --=-=-===-=-=-- - 
+2000-01-01 00:00:04 [info     /  101952] 
+2000-01-01 00:00:04 [debug    /  100336] > performing startup
+2000-01-01 00:00:04 [debug    /   98640]   - hold vsys_en high
+2000-01-01 00:00:04 [info     /   96800]   - wake reason: external_trigger
+2000-01-01 00:00:04 [debug    /   95056]   - turn on activity led
+2000-01-01 00:00:04 [info     /  126624] > clock not set, synchronise from ntp server
+2000-01-01 00:00:05 [info     /  110048] > connecting to wifi network 'PLUSNET-W6N2'
