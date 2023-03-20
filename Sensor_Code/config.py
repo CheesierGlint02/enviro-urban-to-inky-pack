@@ -35,5 +35,5 @@ mqtt_broker_username = ''
 mqtt_broker_password = ''
 
 # adafruit ui settings
-adafruit_io_username = 'Otto_Lelieveld'
-adafruit_io_key = 'aio_qaVJ50YRt7A12JB2SW8vQFxnmgl5'
+adafruit_io_username = ''
+adafruit_io_key = ''
